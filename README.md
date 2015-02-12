@@ -1,1 +1,3 @@
-The repository of Balloonbros logo and its variants.
+# Logo
+
+The repository of our product's logo and Balloonbros' logo and its variants.
