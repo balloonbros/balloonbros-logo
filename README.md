@@ -1,3 +1,3 @@
 # Logo
 
-The repository of our product's logo and Balloonbros' logo.
+The repository of Balloonbros' logo and our product's logo.
